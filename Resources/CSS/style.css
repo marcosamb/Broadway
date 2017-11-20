@@ -3,19 +3,22 @@
   text-align: center;
   color: white;
   background-image: url("../Images/building.png");
+  background-position: center;
 }
 h1 {
   font-size: 70px;
   font-weight: bold;
 }
-.menu{
+p.menu{
   font-size: 18px;
 }
-a:link {
+a {
   color: white;
 }
+
 .process{
   font-family: Helvetica;
+  color: black;
   text-align:center;
 }
 h2 {
@@ -36,9 +39,11 @@ h3.designed {
   color: white;
   text-align:center;
   background-image: url("../Images/building.png");
+  background-position: center;
 }
 .final{
   font-family: Helvetica;
+  color: black;
   text-align: center;
 }
 p.footage{
